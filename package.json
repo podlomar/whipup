@@ -4,6 +4,10 @@
   "description": "Boilerplate generator for different kinds of web apps.",
   "main": "src/index.js",
   "scripts": {},
+  "bin": {
+    "whipup": ".src/index.js",
+  },
+  "preferGlobal": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/podlomar/whipup.git"
