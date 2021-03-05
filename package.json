@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {},
   "bin": {
-    "whipup": ".src/index.js",
+    "whipup": ".src/index.js"
   },
   "preferGlobal": true,
   "repository": {
