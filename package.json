@@ -1,0 +1,20 @@
+{
+  "name": "whipup",
+  "version": "0.0.0",
+  "description": "Boilerplate generator for different kinds of web apps.",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/podlomar/whipup.git"
+  },
+  "author": "Martin Podloucký",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/podlomar/whipup/issues"
+  },
+  "homepage": "https://github.com/podlomar/whipup#readme",
+  "dependencies": {
+    "walkdir": "^0.4.1"
+  }
+}
