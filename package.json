@@ -1,6 +1,6 @@
 {
   "name": "whipup",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Boilerplate generator for different kinds of web apps.",
   "main": "src/index.js",
   "scripts": {},
